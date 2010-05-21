@@ -1,0 +1,17 @@
+== DESCRIPTION
+
+This sample Blackberry application demonstrates fields with custom border and background.
+
+== FIELDS
+
+* CustomVerticalFieldManager
+* CustomEditField
+* CustomPasswordEditField
+* CustomEmailAddressEditField
+* CustomObjectChoiceField    
+* CustomCheckBoxField        
+
+== EXAMPLES
+
+To see an example please launch CustomFieldsApplication in your BlackBerry device simulator.
+
