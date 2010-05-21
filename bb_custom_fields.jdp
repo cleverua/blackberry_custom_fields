@@ -29,6 +29,8 @@ src\com\cleverua\bb\fields\CustomCheckBoxField.java
 src\com\cleverua\bb\fields\CustomEditField.java
 src\com\cleverua\bb\fields\CustomEmailAddressEditField.java
 src\com\cleverua\bb\fields\CustomObjectChoiceField.java
+src\com\cleverua\bb\fields\CustomPasswordEditField.java
+src\com\cleverua\bb\fields\CustomVerticalFieldManager.java
 src\com\cleverua\bb\utils\FieldDecorUtils.java
 ]
 HaveAlxImports=0

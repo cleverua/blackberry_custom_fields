@@ -37,6 +37,15 @@ public class FieldDecorUtils {
         };
     
     /**
+     * Sets custom Border/Background to be used for the unfocused state.
+     * @param f - Field to be processed
+     */
+    public static void setBorderAndBg(Field f) {
+        f.setBackground(INPUT_FIELD_BG);        
+        f.setBorder(INPUT_FIELD_BORDER);
+    }
+    
+    /**
      * Sets custom Border/Background to be used for the focused and unfocused visual states.
      * @param f - Field to be processed
      */
